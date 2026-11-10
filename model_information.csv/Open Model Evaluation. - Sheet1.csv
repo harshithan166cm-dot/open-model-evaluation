@@ -1,0 +1,5 @@
+                                                                                                                                                        Model Information,,,,,,,,,
+Model Name            ,Developer ,Parameters,Architecture,Context Window,License ,Release Date,Intended Uses,Limitations,Platform
+GPT-OSS 20B,OpenAI,20.9B total (3.6B active),MoE,128K,Apache 2.0,"August 5, 2025","Reasoning, coding, general-purpose tasks",May produce incorrect answers; text-only,Groq
+GPT-OSS 120B,OpenAI,116.8B total (5.1B active),MoE,128K,Apache 2.0,"August 5, 2025","Advanced reasoning, coding, agentic tasks",High resource requirements; text-only,Groq
+Qwen 3.8 27B,Alibaba,27B,To verify,131K,To verify,To verify,General-purpose and multimodal tasks,To verify,Groq

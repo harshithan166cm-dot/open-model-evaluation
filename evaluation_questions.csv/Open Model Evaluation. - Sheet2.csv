@@ -1,0 +1,31 @@
+Evaluation Questions,,,,
+Prompt ID,Category,Evaluation Prompt,Expected answer,Evaluation Criteria
+P01,Reasoning,"A product costs ₹800 and is sold for ₹1,000. Calculate the profit percentage.",25%,Correct calculation and answer
+P02,Reasoning,"Find the next number: 3, 8, 15, 24, 35, ?",48,Correct logical pattern
+P03,Reasoning,Five machines make five products in five minutes. How long will 100 machines take to make 100 products?,5 minutes,Logical reasoning
+P04,Reasoning,"If all roses are flowers and some flowers fade quickly, can we conclude that some roses fade quickly? Explain.","No, the conclusion does not necessarily follow",Logical accuracy
+P05,Reasoning,A train travels 180 km in 3 hours. Calculate its average speed.,60 km/h,Correct formula and calculation
+,,,,
+P06,Factual Knowledge,What is the main difference between RAM and ROM?,"RAM is temporary, volatile memory; ROM is generally non-volatile memory",Technical accuracy
+P07,Factual Knowledge,What is the capital of Karnataka?,Bengaluru,Correct factual answer
+P08,Factual Knowledge,Explain how solar panels generate electricity.,They convert sunlight into electrical energy using photovoltaic cells,Scientific accuracy
+P09,Factual Knowledge,Who developed the theory of general relativity?,Albert Einstein,Correct historical answer
+P10,Factual Knowledge,What is the difference between Artificial Intelligence and Machine Learning?,AI is the broader field; ML is a subset of AI,Conceptual accuracy
+,,,,
+P11,Instruction Following,Explain Artificial Intelligence in exactly 30 words.,An explanation containing exactly 30 words,Word-count accuracy
+P12,Instruction Following,List exactly five advantages of Python using a numbered list.,Five numbered advantages,Correct number and format
+P13,Instruction Following,Explain photosynthesis in simple English without using technical words.,"A simple explanation of how plants use sunlight, water and air to make food",Simplicity and instruction compliance
+P14,Instruction Following,Write exactly three sentences about climate change.,Exactly three complete sentences,Sentence-count accuracy
+P15,Instruction Following,Explain cloud computing using one everyday example in fewer than 50 words.,A short explanation with one everyday example,Word limit and relevance
+,,,,
+P16,Coding,Write a Python program to add two numbers entered by the user.,A working Python program using input() and addition,Code correctness
+P17,Coding,Write a Python program to check whether a number is even or odd.,A program using the modulo operator (%),Logical correctness
+P18,Coding,"Find and correct the error in this code: print(""Hello World)","Correct code: print(""Hello World"")",Error identification
+P19,Coding,Write a Python program to reverse a string.,A working program that reverses the input string,Code correctness
+P20,Coding,Explain the difference between a Python list and a tuple.,A list is mutable; a tuple is immutable,Conceptual accuracy
+,,,,
+P21,Indian Languages,Explain Artificial Intelligence in simple Kannada.,A simple and factually correct explanation in Kannada,Language fluency and accuracy
+P22,Indian Languages,"Translate ""Education is the key to success"" into Hindi.",शिक्षा सफलता की कुंजी है।,Translation accuracy
+P23,Indian Languages,Explain Machine Learning in simple Telugu.,A simple and factually correct explanation in Telugu,Language fluency and accuracy
+P24,Indian Languages,"Translate ""Knowledge gives us confidence"" into Kannada.",ಜ್ಞಾನವು ನಮಗೆ ಆತ್ಮವಿಶ್ವಾಸವನ್ನು ನೀಡುತ್ತದೆ.,Translation accuracy
+P25,Indian Languages,Explain the importance of education in simple Hindi.,A simple and factually correct explanation in Hindi,Language fluency and accuracy
